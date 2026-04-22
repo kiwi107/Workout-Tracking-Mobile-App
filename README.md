@@ -92,38 +92,6 @@ Browse exercises organized by 12 different muscle groups:
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- Node.js and npm installed
-- Expo CLI installed (`npm install -g expo-cli`)
-- React Native development environment configured
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd KiwiFit
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server:**
-   ```bash
-   expo start
-   ```
-
-4. **Run on device:**
-   - **Android:** Press `a` to open in Android emulator or scan QR code with Expo Go app
-   - **iOS:** Press `i` to open in iOS simulator or scan QR code with Expo Go app
-   - **Web:** Press `w` to open in web browser
-
----
-
 ## App Architecture
 
 ### Screen Structure
@@ -204,15 +172,4 @@ During an active workout:
 ---
 
 
-## About
 
-**KiwiFit** was built to demonstrate:
-- React Native & Expo expertise
-- Mobile app architecture and design
-- SQLite database management
-- State management with Context API
-- UI/UX implementation
-- Component-based development
-
-
----
